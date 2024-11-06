@@ -1,8 +1,10 @@
 新增资源请点这里：https://github.com/geekrust/geekrust.github.io/issues
 
-# 手册类
+# 工具手册类
 
 【英文】[rust官方文档](https://www.rust-lang.org/learn)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [标准库](https://doc.rust-lang.org/std/index.html)
+
+【英文】[rust play ground](https://play.rust-lang.org/)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [crates.io](https://crates.io/)
 
 【中文】[rust官方文档翻译](https://rustwiki.org/zh-CN/)      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [标准库中文版](https://rustwiki.org/zh-CN/std/index.html)
 
@@ -39,6 +41,8 @@
 
 # 其它
 
+【中文】[Rust语言中文社区](https://rustcc.cn/)
+
 【中文】[rust文档网](https://rustwiki.org/)
 
 【中文】[Rust语言开源杂志（2021）](https://github.com/RustMagazine/rust_magazine_2021)
@@ -47,5 +51,20 @@
 
 【中文】[Rust Horizon 2023 / Rust 视界 2023](https://github.com/RustMagazine/rust-horizon-2023)
 
+【中文】[Rust 生态蜜蜂精华版](https://rustbee.zhubai.love/)
+
 # 个人总结
 
+一些书籍：
+
+《Rust编程：入门 实战与进阶》（朱春雷）：很多人批评这本书简单，但对我来说帮助非常大，只需要一些c语言基础即可
+
+《Rust第一课》（陈天）：juejin.cn网站买的课程，上面一本书学完看这个非常好
+
+《Rust程序设计（第2版）》：吉姆·布兰迪，rust程序员人手必备
+
+《Rust编程之道》（张汉东）：非入门书籍，建议放到后面学
+
+《Rust Web开发》：计划阅读
+
+《Rust并发编程实战》：计划阅读
