@@ -1,4 +1,6 @@
-新增资源请点这里：[https://github.com/geekrust/geekrust.github.io/issues](https://github.com/geekrust/geekrust.github.io/issues)
+update: 2024.11.6
+
+资源推荐请点这里：[https://github.com/geekrust/geekrust.github.io/issues](https://github.com/geekrust/geekrust.github.io/issues)
 
 # 工具手册类
 
@@ -77,9 +79,9 @@
 
 一些书籍：
 
-《Rust编程：入门 实战与进阶》（朱春雷）：很多人批评这本书简单，但对我来说帮助非常大，只需要一些c语言基础即可
+《Rust编程：入门 实战与进阶》（朱春雷）：适合入门，但貌似没有讲宏
 
-《Rust第一课》（陈天）：juejin.cn网站买的课程，上面一本书学完看这个非常好
+《Rust第一课》（陈天）：juejin.cn网站买的课程，上面一本书学完，再看这个
 
 《Rust程序设计（第2版）》：吉姆·布兰迪，rust程序员人手必备
 
@@ -88,3 +90,6 @@
 《Rust Web开发》：计划阅读
 
 《Rust并发编程实战》：计划阅读
+
+《Rust死灵书》：计划阅读
+
