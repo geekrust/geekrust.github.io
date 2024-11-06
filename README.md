@@ -2,9 +2,9 @@
 
 # 工具手册类
 
-【英文】[rust官方文档](https://www.rust-lang.org/learn)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [标准库](https://doc.rust-lang.org/std/index.html)
+【英文】[rust官方文档](https://www.rust-lang.org/learn)     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [标准库](https://doc.rust-lang.org/std/index.html)
 
-【英文】[rust play ground](https://play.rust-lang.org/)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [crates.io](https://crates.io/)
+【英文】[rust play ground](https://play.rust-lang.org/)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [crates.io](https://crates.io/)
 
 【中文】[rust官方文档翻译](https://rustwiki.org/zh-CN/)      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [标准库中文版](https://rustwiki.org/zh-CN/std/index.html)
 
@@ -37,7 +37,7 @@
 
 【中文】[Rust 程序设计语言：不推荐](https://rust.bootcss.com/)
 
-【中文】[Rust 程序设计语言](Rust 程序设计语言 简体中文版)
+【中文】[Rust 程序设计语言（很新）](https://kaisery.github.io/trpl-zh-cn/)
 
 【英文】[Rust Language Cheat Sheet](https://cheats.rs/)
 
