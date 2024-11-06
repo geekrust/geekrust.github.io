@@ -57,9 +57,13 @@
 
 【中文】[Rust 生态蜜蜂精华版](https://rustbee.zhubai.love/)
 
+【中文】[https://rs.trybetter.app/](https://rs.trybetter.app/)
+
+【中文】[Rust 101](https://juejin.cn/post/7150187051621548046)
+
 # 个人总结
 
-一些书籍：（参考：https://rs.trybetter.app/docs/guide/intro/rust-book/）（[https://rs.trybetter.app/](https://rs.trybetter.app/)）
+一些书籍：（参考：https://rs.trybetter.app/docs/guide/intro/rust-book/）
 
 《Rust编程：入门 实战与进阶》（朱春雷）：很多人批评这本书简单，但对我来说帮助非常大，只需要一些c语言基础即可
 
