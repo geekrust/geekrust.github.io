@@ -1,3 +1,5 @@
+新增资源请点这里：https://github.com/geekrust/geekrust.github.io/issues
+
 # 手册类
 
 【英文】[rust官方文档](https://www.rust-lang.org/learn)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [标准库](https://doc.rust-lang.org/std/index.html)
@@ -44,4 +46,6 @@
 【中文】[Rust 杂志 2022 （已终止）](https://github.com/RustMagazine/rust_magazine_2022)
 
 【中文】[Rust Horizon 2023 / Rust 视界 2023](https://github.com/RustMagazine/rust-horizon-2023)
+
+# 个人总结
 
