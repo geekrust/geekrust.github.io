@@ -1,4 +1,4 @@
-新增资源请点这里：https://github.com/geekrust/geekrust.github.io/issues
+新增资源请点这里：[https://github.com/geekrust/geekrust.github.io/issues](https://github.com/geekrust/geekrust.github.io/issues)
 
 # 工具手册类
 
