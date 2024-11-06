@@ -35,6 +35,10 @@
 
 【中文】[Rust速成课: 有点老](https://github.com/chapin666/rust-crash-course-zh)
 
+【中文】[Rust 程序设计语言：不推荐](https://rust.bootcss.com/)
+
+【中文】[Rust 程序设计语言](Rust 程序设计语言 简体中文版)
+
 【英文】[Rust Language Cheat Sheet](https://cheats.rs/)
 
 【英文】[Rust 🦀 and WebAssembly](https://rustwasm.github.io/docs/book/)
@@ -44,6 +48,12 @@
 【英文】[Effective Rust](https://www.lurklurk.org/effective-rust/)
 
 # 其它
+
+【中文】[Rust工程师枕边资料：非常齐全，强推](https://github.com/0voice/Understanding_in_Rust)
+
+【中文】[Rust 学习资源：资料很多，但有段时间不维护了](https://frankorz.com/2022/01/18/rust-study-resource/)
+
+【中文】[鸟窝：推荐，里面rust资料也很多](https://colobu.com/)
 
 【中文】[Rust语言中文社区](https://rustcc.cn/)
 
@@ -60,6 +70,8 @@
 【中文】[https://rs.trybetter.app/](https://rs.trybetter.app/)
 
 【中文】[Rust 101](https://juejin.cn/post/7150187051621548046)
+
+【英文】[rust英文书籍大全](https://github.com/sger/RustBooks)
 
 # 个人总结
 
