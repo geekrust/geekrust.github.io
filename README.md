@@ -31,6 +31,10 @@
 
 【中文】[通过例子学 Rust 中文版](https://github.com/rust-lang-cn/rust-by-example-cn)
 
+【中文】[rust 中文教程，每周更新 1-3 讲](https://github.com/the-web3/chaineye-rust)
+
+【中文】[Rust速成课: 有点老](https://github.com/chapin666/rust-crash-course-zh)
+
 【英文】[Rust Language Cheat Sheet](https://cheats.rs/)
 
 【英文】[Rust 🦀 and WebAssembly](https://rustwasm.github.io/docs/book/)
@@ -55,7 +59,7 @@
 
 # 个人总结
 
-一些书籍：
+一些书籍：（参考：https://rs.trybetter.app/docs/guide/intro/rust-book/）（[https://rs.trybetter.app/](https://rs.trybetter.app/)）
 
 《Rust编程：入门 实战与进阶》（朱春雷）：很多人批评这本书简单，但对我来说帮助非常大，只需要一些c语言基础即可
 
