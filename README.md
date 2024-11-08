@@ -1,14 +1,14 @@
 update: 2024.11.6
 
-资源推荐请点这里：[https://github.com/geekrust/geekrust.github.io/issues](https://github.com/geekrust/geekrust.github.io/issues){target="_blank"}
+资源推荐请点这里：[https://github.com/geekrust/geekrust.github.io/issues](https://github.com/geekrust/geekrust.github.io/issues){:target="_blank"}
 
 # 工具手册类
 
-【英文】[rust官方文档](https://www.rust-lang.org/learn){target="_blank"}     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [标准库](https://doc.rust-lang.org/std/index.html){target="_blank"}
+【英文】[rust官方文档](https://www.rust-lang.org/learn){:target="_blank"}     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [标准库](https://doc.rust-lang.org/std/index.html){:target="_blank"}
 
-【英文】[rust play ground](https://play.rust-lang.org/){target="_blank"}    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [crates.io](https://crates.io/){target="_blank"}
+【英文】[rust play ground](https://play.rust-lang.org/){:target="_blank"}    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [crates.io](https://crates.io/){:target="_blank"}
 
-【中文】[rust官方文档翻译](https://rustwiki.org/zh-CN/){target="_blank"}      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [标准库中文版](https://rustwiki.org/zh-CN/std/index.html){target="_blank"}
+【中文】[rust官方文档翻译](https://rustwiki.org/zh-CN/){:target="_blank"}      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [标准库中文版](https://rustwiki.org/zh-CN/std/index.html){:target="_blank"}
 
 
 # 教程或资料
