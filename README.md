@@ -8,7 +8,7 @@ update: 2024.11.6
 
 【英文】[rust play ground](https://play.rust-lang.org/)    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [crates.io](https://crates.io/)
 
-【英文】[Rust Versions](https://releases.rs/)              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     
+【英文】[Rust Versions](https://releases.rs/)              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [rust语言之旅，多国语言](https://tourofrust.com/00_zh-cn.html)
 
 【中文】[rust官方文档翻译](https://rustwiki.org/zh-CN/)      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     [标准库中文版](https://rustwiki.org/zh-CN/std/index.html)
 
