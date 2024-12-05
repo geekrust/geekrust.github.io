@@ -75,6 +75,8 @@ update: 2024.11.6
 
 【中文】[better-rs.github.io](https://better-rs.github.io/)
 
+【中文】[rust学习笔记](https://skyao.io/learning-rust/)
+
 【英文】[rust英文书籍大全](https://github.com/sger/RustBooks)
 
 # 个人总结
