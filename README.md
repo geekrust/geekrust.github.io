@@ -1,6 +1,6 @@
 update: 2024.11.6
 
-资源推荐请点这里：[https://github.com/geekrust/geekrust.github.io/issues](https://github.com/geekrust/geekrust.github.io/issues)
+资源推荐请点这里：[https://github.com/geekrust/geekrust.github.io/](https://github.com/geekrust/geekrust.github.io/)
 
 # 工具手册类
 
@@ -42,6 +42,8 @@ update: 2024.11.6
 【中文】[Rust 程序设计语言：不推荐](https://rust.bootcss.com/)
 
 【中文】[Rust 程序设计语言（很新）](https://kaisery.github.io/trpl-zh-cn/)
+
+【中文】[Effective Rust](https://github.com/rustx-labs/effective-rust-cn/)
 
 【英文】[Rust Language Cheat Sheet](https://cheats.rs/)
 
