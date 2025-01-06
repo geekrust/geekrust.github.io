@@ -1,6 +1,7 @@
-update: 2024.11.6
+update: 2025.1.6
 
-资源推荐请点这里：[https://github.com/geekrust/geekrust.github.io/](https://github.com/geekrust/geekrust.github.io/)
+资源首页：[https://geekrust.github.io/](https://geekrust.github.io/)
+资源推荐：[https://github.com/geekrust/geekrust.github.io/](https://github.com/geekrust/geekrust.github.io/)
 
 # 工具手册类
 
